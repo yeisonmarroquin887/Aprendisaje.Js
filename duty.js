@@ -1,0 +1,3 @@
+//tienes la funcion buscarlaPalabra() y tienes un string "Hola encuentra a Kakaroto" tu funcion sera buscar la palabra 
+//Kakaroto y devolverla en un array ["Kakaroto"] no te olvides de las variables globales Suerte...
+// Escribe Aqui tu magia👌😁
